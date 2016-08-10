@@ -3,12 +3,6 @@
     "gateway_ID": "B827EBFFFE05A1D2",
     "servers": [
       {
-        "server_address": "router.eu.thethings.network",
-        "serv_port_up": 1701,
-        "serv_port_down": 1701,
-        "serv_enabled": true
-      }, 
-      {
         "server_address": "rvtech1.datastack.cz",
         "serv_port_up": 1700,
         "serv_port_down": 1700,

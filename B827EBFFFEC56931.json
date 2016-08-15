@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEC56931",
+    "servers": [
+      {
+        "server_address": "rvtech1.datastack.cz",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 49.7417500,
+    "ref_longitude": 13.3735878,
+    "ref_altitude": 400,
+    "contact_email": "info@rvtech.cz",
+    "description": "Masarykac"
+  }
+}

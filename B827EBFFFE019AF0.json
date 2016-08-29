@@ -1,6 +1,6 @@
 {
   "gateway_conf": {
-    "gateway_ID": "B827EBFFF019AF0",
+    "gateway_ID": "B827EBFFFE019AF0",
     "servers": [
       {
         "server_address": "rvtech1.datastack.cz",

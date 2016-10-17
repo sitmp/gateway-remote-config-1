@@ -7,12 +7,18 @@
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
+      },
+      {
+        "server_address": "rvtech1.datastack.cz",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
       }
     ],
     "ref_latitude": 46.5155057,
     "ref_longitude": 6.5372456,
     "ref_altitude": 440,
     "contact_email": "info@rvtech.cz",
-    "description": "RV000-LORA-Plzen-Bendova"
+    "description": "RV000-LORA-Whitesoft"
   }
 }

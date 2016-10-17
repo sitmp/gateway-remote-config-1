@@ -3,7 +3,7 @@
     "gateway_ID": "B827EBFFFE8F10B1",
     "servers": [
       {
-        "server_address": "rvtech1.datastack.cz",
+        "server_address": "loratech.cz",
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true

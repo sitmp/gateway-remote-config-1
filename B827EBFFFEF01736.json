@@ -1,0 +1,24 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEF01736",
+    "servers": [
+      {
+        "server_address": "loratech.cz",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      },
+      {
+        "server_address": "rvtech1.datastack.cz",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 49.7673550,
+    "ref_longitude": 13.4304508,
+    "ref_altitude": 416,
+    "contact_email": "info@rvtech.cz",
+    "description": "RV003-LORA-Plzen-Chlum"
+  }
+}

@@ -9,7 +9,7 @@
         "serv_enabled": true
       },
       {
-        "server_address": "loratech.cz",
+        "server_address": "app.loratech.cz",
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true

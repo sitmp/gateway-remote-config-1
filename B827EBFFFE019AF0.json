@@ -3,13 +3,19 @@
     "gateway_ID": "B827EBFFFE019AF0",
     "servers": [
       {
-        "server_address": "loratech.cz",
+        "server_address": "lora.plzen.eu",
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
       },
       {
-        "server_address": "rvtech1.datastack.cz",
+        "server_address": "app.loratech.cz",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      },
+      {
+        "server_address": "test.loratech.cz",
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true

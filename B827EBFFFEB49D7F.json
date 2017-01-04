@@ -1,0 +1,30 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEB49D7F",
+    "servers": [
+      {
+        "server_address": "lora.plzen.eu",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      },
+      {
+        "server_address": "app.loratech.cz",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      },
+      {
+        "server_address": "test.loratech.cz",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 49.7327547,
+    "ref_longitude": 13.4041458,
+    "ref_altitude": 416,
+    "contact_email": "info@rvtech.cz",
+    "description": "RV011-LORA-Plzen-SPSE"
+  }
+}
